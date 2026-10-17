@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 Automatic Controls and Robotics student at Gdansk Tech, fascinated with Embedded Systems and with soft spot for programming. I'm focusing
 on systems based on STM32 family, being eager to always develop an entire solution from scratch - from PCB to a fully working simple or more
@@ -8,11 +8,19 @@ Currently diving deep into STM32 territory, actively learning RTOS. As for pure 
 I'm planning to lean towards the machine learning side of programming somewhere in the bright future.
 
 
-## Main projects 
+## My projects 
 
-#### STM32 Weather Station based on BME690 sensor (https://github.com/Essenter24/STM32-Weather-Station)
-* Compact weather station based on STM32L476RG6 
+#### STM32 Weather Station based on BME690 sensor (https://github.com/Essenter24/STM32-Weather-Station) - first embedded project
+* Compact weather station based on STM32L476RG6 and LCD screen with own light driver
+* KiCad-made PCB from scratch
+* Main functions:
+  - reading information about air humidity, temperature and pressure
+  - manual or automatic (based on light level) LCD brightness control
+  - UART communication and JSON data sending through LPUART
 
+#### STM32 LED Heart (https://github.com/Essenter24/STM32-LED-Heart/tree/main)
+* Heart composed of 16 red LEDs on heart-shaped developed by myself PCB with simple software PWM
+* Several different illumination modes (with room for creating more in the future) toggled by button
 
 ## Currently working on
 
@@ -30,18 +38,8 @@ I'm planning to lean towards the machine learning side of programming somewhere 
 
 #### Simple I2C OLED screen driver 
 * Written from scratch, to be used in future projects
-* Handling both non-DMA and DMA I2C communication with OLED
-<!--
-**Essenter24/Essenter24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Handling both non-DMA and DMA-assisted I2C communication with OLED
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> In case of any questions or interest, feel free to message me on LinkedIN (https://www.linkedin.com/in/łukasz-garlicki-932779215/) or directly
+> to my e-mail (lukasz24garlicki@gmail.com)!
