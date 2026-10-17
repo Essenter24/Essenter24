@@ -4,9 +4,8 @@ Automatic Controls and Robotics student at Gdansk Tech, fascinated with Embedded
 on systems based on STM32 family, being eager to always develop an entire solution from scratch - from PCB to a fully working simple or more
 advanced system.
 
-Currently diving deep into STM32 territory, actively learning RTOS. As for pure software side, focusing on learning Python and Rust with slight lean
-towards data and machine learning.
-
+Currently diving deep into STM32 territory, actively learning RTOS. As for pure software side, I'm focusing on learning Python and Rust.
+I'm planning to lean towards the machine learning side of programming somewhere in the bright future.
 <!--
 **Essenter24/Essenter24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
